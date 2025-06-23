@@ -1,0 +1,9 @@
+Link dataset:
+https://drive.google.com/drive/folders/1h3954MBotsNGUV4hQG1BCmLAZC8EetIE?usp=drive_link
+
+Cấu trúc:
+|--VenomDatasetYolov7
+|----test
+|----train
+|----valid
+|----data.yaml: file config dùng để huấn luyện (đã đổi tên thành carsData trong)
